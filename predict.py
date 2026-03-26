@@ -9,14 +9,14 @@ scaler = joblib.load("scaler.pkl")
 print("Model loaded successfully\n")
 
 # Example new patient data
-# ⚠ Order must match training data columns exactly
+
 
 new_patient = {
-    "Age": 75,
+    "Age": 85,
     "Sex": 1,
     "Chest pain type": 4,
     "BP": 180,
-    "Cholesterol": 300,
+    "Cholesterol": 400,
     "FBS over 120": 1,
     "EKG results": 2,
     "Max HR": 90,

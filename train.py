@@ -68,7 +68,7 @@ y_pred = model.predict(X_test)
 
 print("\nModel Evaluation\n")
 print("Accuracy:", accuracy_score(y_test, y_pred))
-print("\nClassification Report:\n")
+print("\nClassification Report-\n")
 print(classification_report(y_test, y_pred))
 
 # Confusion Matrix
