@@ -1,12 +1,12 @@
 # Heart Disease Prediction (Machine Learning)
 
-## 📌 Overview
+## Overview
 
 This project predicts the likelihood of heart disease using clinical health parameters.
 
 ---
 
-## ⚙️ Model
+## Model
 
 - Algorithm: Random Forest Classifier
 - Hyperparameters:
@@ -15,7 +15,7 @@ This project predicts the likelihood of heart disease using clinical health para
 
 ---
 
-## 📊 Performance
+## Performance
 
 - Training Accuracy: 93.98%
 - Testing Accuracy: 87.03%
