@@ -24,7 +24,7 @@ The small difference between training and testing accuracy indicates good genera
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1️⃣ Install dependencies:
 pip install -r requirements.txt
